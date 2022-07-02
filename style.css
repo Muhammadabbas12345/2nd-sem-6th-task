@@ -1,0 +1,313 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+#sec1{
+    background-color: rgb(84, 38, 38);
+    color: white;
+    border-top: 10px solid rgb(60, 196, 151);
+}
+.div1{
+    display: flex;
+    padding: 1% 8%;
+}
+
+
+.div2 h1{
+    font-size: 35px;
+}
+.div2 p{
+    padding-left: 1%;
+    position: relative;
+    bottom: 32px;
+}
+
+.div3{
+    display: flex;
+    padding: 2.8% 3%;
+    margin-left: 16%;
+
+}
+.div3 li{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 6%;
+}
+.li1{
+    background-color: aquamarine;
+    height: 20px;
+    padding: 2%;
+    border-radius: 10px;
+   position: relative;
+   bottom: 10px;
+}
+
+.div4{
+    display: flex;
+    
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+}
+
+
+.div5{
+    width: 400px;
+    padding-top: 5%;
+}
+.div5 h1{
+    font-size: 60px;
+}
+
+.div5 p{
+    font-size: 20px;
+    opacity: 40%;
+}
+.div5 button{
+    background-color: rgb(90, 171, 144);
+    padding: 2%;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+
+
+.div6{
+    background-color: rgb(51, 49, 49);
+    border: 25px solid rgb(105, 102, 102);
+    border-radius: 100%;
+    padding:  15%;
+    height: 150px;
+    margin-left: 18%;
+  
+}
+.div6 h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40%;
+  
+ 
+}
+
+#sec2{
+    background-color: rgb(114, 31, 31);
+    padding: 3% 6%;
+}
+
+.div7{
+   display: flex; 
+   margin-left: 12%;
+   margin-bottom: 3%;
+}
+
+.d1{
+    padding:  2%;
+    background-color: white;
+    width: 15%;
+    height: 260px;
+    text-align: center;
+    margin-left: 2%;
+}
+
+.d1 h2{
+    font-size: 25px;
+}
+.d1 p{
+    font-size: 15px;
+}
+
+.d2{
+
+    padding: 15% 4%;
+    margin-left: 23%;
+font-size: 15px;
+    height: 45px;
+    width: 90px;
+    background-color: rgb(52, 47, 47);
+    color: white;
+    
+    text-align: center;
+
+}
+
+
+.d3{
+    padding:  2%;
+    background-color: rgb(44, 136, 105);
+    width: 15%;
+    height: 260px;
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+
+}
+
+.d3 h2{
+    font-size: 25px;
+}
+.d3 p{
+    font-size: 15px;
+}
+
+.d4{
+
+    padding: 15% 4%;
+    margin-left: 23%;
+font-size: 15px;
+    height: 45px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+    
+    text-align: center;
+
+
+
+
+}
+
+
+.div8{
+    margin-top: 3%;
+    display: flex;
+    margin-right: 4%;
+}
+
+
+.d5{
+    width: 300px;
+    height: 150px;
+    border: solid 4px white;
+   background-color: rgb(105, 102, 102);
+   text-align: center;
+   padding: 4%;
+   margin-left: 2.5%;
+    
+}
+
+.H1{
+    font-size: 10px;
+    position: relative;
+    bottom: 30px;
+    left: 620px;
+    color: white;
+    background-color: rgb(74, 72, 72);
+    width: 80px;
+    padding: 1%;
+}
+.d5 h2{
+    margin-top: 50px;
+    font-size: 25px;
+    color: white;
+}
+
+.d5 p{
+    margin-top: 90px;
+    font-size: 20px;
+    padding-top: 4px;
+    background-color: black;
+    color: white;
+    width: 402px;
+    height: 32px;
+    position: relative;
+    right: 51px;
+}
+
+
+#sec3{
+    display: flex;
+    padding: 3% 3%;
+    background-color: rgb(72, 72, 71);
+}
+
+.div9{
+    width: 200px;
+    margin-left: 6%;
+    font-size: 20px;
+    color: white;
+}
+.div9 h1{
+    opacity: 60%;
+}
+
+.div9 h3{
+    color: aquamarine;
+}
+.div9 p{
+    opacity: 60%;
+}
+
+.div10{
+    margin-left: 7%;
+    font-size: 20px;
+    color: aquamarine;
+    opacity: 60%;
+
+
+
+
+}
+
+.div10 h1{
+   color: white;
+
+
+}
+.loremlast{
+    margin-left: 7%;
+}
+.loremlast h1{
+    color: white;
+    font-size: 30px;
+    opacity: 60%;
+}
+
+
+   .loremlast input{
+     width: 300px;
+     height: 30px;
+     background-color: rgb(33, 33, 32);
+     border-radius: 10px;
+     color: white;
+   }
+   .loremlast textarea{
+     width: 300px;
+     height: 60px;
+     background-color: rgb(33, 33, 32);
+     border-radius: 10px;
+     color: white;
+  
+   }
+  
+   .loremlast button{
+    padding: 3%;
+    border-radius: 10px;
+
+    background-color: rgb(18, 235, 170);
+    color: white;
+    margin-top: 2%;
+    border: none;
+  
+   }
+
+
+   .lastdiv{
+    padding: 2%;
+    background-color: rgb(72, 72, 71);
+   border: solid 2px black;
+   
+   }
+
+   .lastdiv a{
+    color: white;
+   }
+
+
+
+
+
